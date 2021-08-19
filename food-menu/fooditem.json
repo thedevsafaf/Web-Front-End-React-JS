@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"Biriyani",
+    "price":80,
+    "description":"Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and meat, and sometimes, in addition, eggs and/or vegetables such as potatoes in certain regional varieties. Biryani is popular throughout the Indian subcontinent",
+    "qty":10,
+  },
+  {
+    "id":2,
+    "name":"Meals",
+    "price":50,
+    "description":"A meal is an eating occasion that takes place at a certain time and includes prepared food. The names used for specific meals in English vary, depending on the speaker's culture, the time of day, or the size of the meal. Meals occur primarily at homes, restaurants, and cafeterias, but may occur anywhere",
+    "qty":6,
+  },
+  {
+    "id":3,
+    "name":"Payasam",
+    "price":80,
+    "description":"Kheer, payasa, payasam or phirni is a type of pudding from the Indian subcontinent, made by boiling milk, sugar, and rice, although rice may be substituted with one of the following: bulgar wheat, millet, tapioca, vermicelli, or sweet corn",
+    "qty":29,
+  },
+]
